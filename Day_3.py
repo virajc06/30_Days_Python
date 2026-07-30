@@ -64,6 +64,8 @@ for i in range(5):
     print(i, " x ", i, " = ", i*i)
 
 
+Their are questions i left that i will be completing after i get a bbreak
+
 
 
 
